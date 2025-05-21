@@ -79,8 +79,12 @@ Te facilita convertir el monto que tienes en una determinada moneda (moneda orig
 
 ## Tecnologías usadas ⌨️
 - Java
-- API externas
+- Oracle OpenJDK 17.0.3
+- Maven - librería gson-2.13.1.jar
+- API externas de: exChangeRate, freeCurrencyApi, exConvert, currencyLayer, abstractApi y, currencyApi
+- API keys de: exChangeRate, freeCurrencyApi, exConvert, currencyLayer, abstractApi y, currencyApi
 - Ayuda de Luri, la IA de Alura
+- IntelliJ IDEA Community Edition 2024.3.5
 
 ## Licencia 📄
  Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
